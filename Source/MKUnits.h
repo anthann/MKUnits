@@ -42,5 +42,6 @@
 #import "MKVolumeUnit.h"
 #import "MKVolumeUnit+Imperial.h"
 #import "MKVolumeUnit+US.h"
+#import "MKPressureUnit.h"
 
 #import <MKFoundationKit/NSNumber+MK.h>
